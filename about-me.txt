@@ -7,3 +7,4 @@ Goal: Become a Software Developer
 I am learning GitHub practically
 I am learning GitHub, Git and VS Code.
 I can use GitHub to manage my projects.
+I am practicing Git branches.
