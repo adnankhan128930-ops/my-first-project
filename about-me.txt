@@ -5,3 +5,4 @@ Field: Computer Science
 Learning: GitHub and Git
 Goal: Become a Software Developer
 I am learning GitHub practically
+I am learning GitHub, Git and VS Code.
